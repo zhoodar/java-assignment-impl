@@ -1,6 +1,7 @@
 package kg.zhoodar.base;
 
 /**
+ * Implements given input detail
  * @author Zhoodar
  * @since 01.10.2016.
  */
